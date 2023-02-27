@@ -1,4 +1,4 @@
-# Sentiment-analysis
+# Review-analysis
 
 This is a web app created using JustPy, a Python library for building web interfaces, that displays graphs for course review analysis.
 
