@@ -31,7 +31,7 @@ User authentication: This feature could allow users to create accounts and log i
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome any contributions, whether they be bug fixes, new features, or improvements to the documentation.
 
 #Credits
-This motion detector app was built by PRAJOL SHRESTHA as a personal project. If you have any feedback or suggestions, feel free to create a pull request or contact me via email.
+This code was built by PRAJOL SHRESTHA as a personal project. If you have any feedback or suggestions, feel free to create a pull request or contact me via email.
 
 #License
-This motion detector app is licensed under the MIT License. You are free to use, modify, and distribute this application as long as you give credit to the original author.
+This code is licensed under the MIT License. You are free to use, modify, and distribute this application as long as you give credit to the original author.
